@@ -1,0 +1,61 @@
+timedur +t*CHI +t*MOT *.cha
+Sun Mar 29 20:48:38 2026
+timedur (11-Mar-2026) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI; *MOT;
+****************************************
+From file <amy.cha>
+ #  Cur|  MOT  |MOT-MOT|MOT-CHI|  CHI  |CHI-CHI|
+From file <betty.cha>
+ #  Cur|  MOT  |MOT-MOT|MOT-CHI|  CHI  |CHI-CHI|
+From file <chuck.cha>
+ #  Cur|  MOT  |MOT-MOT|MOT-CHI|  CHI  |CHI-CHI|
+From file <doug.cha>
+ #  Cur|  MOT  |MOT-MOT|MOT-CHI|  CHI  |CHI-CHI|
+From file <ed.cha>
+ #  Cur|  CHI  |CHI-CHI|CHI-MOT|  MOT  |MOT-MOT|
+From file <frank.cha>
+ #  Cur|  CHI  |CHI-CHI|CHI-MOT|  MOT  |MOT-MOT|
+From file <gloria.cha>
+ #  Cur|  CHI  |CHI-CHI|CHI-MOT|  MOT  |MOT-MOT|
+From file <hank.cha>
+ #  Cur|  MOT  |MOT-MOT|MOT-CHI|  CHI  |CHI-CHI|
+From file <ivy.cha>
+ #  Cur|  MOT  |MOT-MOT|MOT-CHI|  CHI  |CHI-CHI|
+From file <jane.cha>
+ #  Cur|  MOT  |MOT-MOT|MOT-CHI|  CHI  |CHI-CHI|
+From file <jim.cha>
+ #  Cur|  MOT  |MOT-MOT|MOT-CHI|  CHI  |CHI-CHI|
+From file <kathy.cha>
+ #  Cur|  CHI  |CHI-CHI|CHI-MOT|  MOT  |MOT-MOT|
+From file <keith.cha>
+ #  Cur|  MOT  |MOT-MOT|MOT-CHI|  CHI  |CHI-CHI|
+From file <kent.cha>
+ #  Cur|  MOT  |MOT-MOT|MOT-CHI|  CHI  |CHI-CHI|
+From file <linda.cha>
+ #  Cur|  MOT  |MOT-MOT|MOT-CHI|  CHI  |CHI-CHI|
+From file <mandy.cha>
+ #  Cur|  CHI  |CHI-CHI|CHI-MOT|  MOT  |MOT-MOT|
+From file <nan.cha>
+ #  Cur|  MOT  |MOT-MOT|MOT-CHI|  CHI  |CHI-CHI|
+From file <olivia.cha>
+ #  Cur|  MOT  |MOT-MOT|MOT-CHI|MOT-ANN|  CHI  |CHI-CHI|CHI-ANN|  ANN  |ANN-ANN|
+From file <paula.cha>
+ #  Cur|  CHI  |CHI-CHI|CHI-MOT|  MOT  |MOT-MOT|
+From file <pete.cha>
+ #  Cur|  MOT  |MOT-MOT|MOT-CHI|  CHI  |CHI-CHI|
+From file <ruth.cha>
+ #  Cur|  MOT  |MOT-MOT|MOT-CHI|  CHI  |CHI-CHI|
+From file <steve.cha>
+ #  Cur|  MOT  |MOT-MOT|MOT-CHI|MOT-INV|  CHI  |CHI-CHI|CHI-INV|  INV  |INV-INV|
+From file <sue.cha>
+ #  Cur|  MOT  |MOT-MOT|MOT-CHI|  CHI  |CHI-CHI|
+From file <tom.cha>
+ #  Cur|  MOT  |MOT-MOT|MOT-CHI|  CHI  |CHI-CHI|
+From file <vicki.cha>
+ #  Cur|  MOT  |MOT-MOT|MOT-CHI|  CHI  |CHI-CHI|
+From file <wanda.cha>
+ #  Cur|  MOT  |MOT-MOT|MOT-CHI|  CHI  |CHI-CHI|
+From file <will.cha>
+ #  Cur|  MOT  |MOT-MOT|MOT-CHI|  CHI  |CHI-CHI|
+From file <zeke.cha>
+ #  Cur|  CHI  |CHI-CHI|CHI-MOT|  MOT  |MOT-MOT|

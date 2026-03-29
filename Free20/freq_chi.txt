@@ -1,0 +1,687 @@
+freq +t*CHI *.cha
+Thu Mar 26 10:54:29 2026
+freq (11-Mar-2026) is conducting analyses on:
+  ONLY speaker main tiers matching: *CHI;
+****************************************
+From file <amy.cha>
+Speaker: *CHI:
+  2 ah
+  1 aht@i
+  2 girl
+  1 hat
+  2 hey
+  1 little
+  1 mine
+  9 no
+  1 open
+  1 ow@i
+  1 there
+  1 uh_uh_uh@o
+  1 uhoh
+  1 woof
+  8 yeah
+------------------------------
+   15  Total number of different item types used
+   33  Total number of items (tokens)
+0.455  Type/Token ratio
+    This TTR number was not calculated on the basis of %mor line forms.
+    If you want a TTR based on lemmas, run FREQ on the %mor line
+    with option: +sm;*,o%
+
+From file <betty.cha>
+Speaker: *CHI:
+  1 Dad
+  2 baby
+  1 car
+  1 chick
+  2 dog
+  1 m_ap_ap_ap@o
+  2 no
+  1 oh
+  2 that
+------------------------------
+    9  Total number of different item types used
+   13  Total number of items (tokens)
+0.692  Type/Token ratio
+    This TTR number was not calculated on the basis of %mor line forms.
+    If you want a TTR based on lemmas, run FREQ on the %mor line
+    with option: +sm;*,o%
+
+From file <chuck.cha>
+Speaker: *CHI:
+  1 Daddy
+  1 a
+  3 a@l
+  2 ah
+  1 aht@i
+ 31 ball
+  2 go
+  1 huh
+  1 in
+  7 oh
+  2 out
+  1 right
+  1 there
+  2 uhoh
+  2 uhuh
+  9 where
+------------------------------
+   16  Total number of different item types used
+   67  Total number of items (tokens)
+0.239  Type/Token ratio
+    This TTR number was not calculated on the basis of %mor line forms.
+    If you want a TTR based on lemmas, run FREQ on the %mor line
+    with option: +sm;*,o%
+
+From file <doug.cha>
+Speaker: *CHI:
+  1 Mommy
+  1 Sandy
+  2 cooker
+  3 no
+  1 table
+------------------------------
+    5  Total number of different item types used
+    8  Total number of items (tokens)
+0.625  Type/Token ratio
+    This TTR number was not calculated on the basis of %mor line forms.
+    If you want a TTR based on lemmas, run FREQ on the %mor line
+    with option: +sm;*,o%
+
+From file <ed.cha>
+Speaker: *CHI:
+  2 ball
+  1 big
+  1 bigger
+  2 blocks
+  1 chairs
+  3 circle
+  2 cup
+  2 dog
+  1 gramma
+  1 grammas
+  1 huh
+  1 in
+  4 one
+  1 three
+  1 two
+  2 yeah
+------------------------------
+   16  Total number of different item types used
+   26  Total number of items (tokens)
+0.615  Type/Token ratio
+    This TTR number was not calculated on the basis of %mor line forms.
+    If you want a TTR based on lemmas, run FREQ on the %mor line
+    with option: +sm;*,o%
+
+From file <frank.cha>
+Speaker: *CHI:
+  1 ball
+  1 byebye
+  2 chick
+  2 chicken
+  1 huh
+  1 nah
+  5 night_night
+  2 no
+  3 o@l
+  1 qua_quack@o
+  1 ruff_ruff@o
+  5 that
+  5 what's
+------------------------------
+   13  Total number of different item types used
+   30  Total number of items (tokens)
+0.433  Type/Token ratio
+    This TTR number was not calculated on the basis of %mor line forms.
+    If you want a TTR based on lemmas, run FREQ on the %mor line
+    with option: +sm;*,o%
+
+From file <gloria.cha>
+Speaker: *CHI:
+  1 Bridget
+  1 Gramma
+  2 Jill
+  1 Marsha
+  4 Mommy
+  2 Papa
+  2 alright
+  1 good
+  1 no
+  1 that
+  3 uhoh
+------------------------------
+   11  Total number of different item types used
+   19  Total number of items (tokens)
+0.579  Type/Token ratio
+    This TTR number was not calculated on the basis of %mor line forms.
+    If you want a TTR based on lemmas, run FREQ on the %mor line
+    with option: +sm;*,o%
+
+From file <hank.cha>
+Speaker: *CHI:
+  1 baby
+  1 boy
+  1 bye
+  1 byebye
+  2 here
+  1 huh
+  1 in
+  1 mom
+  1 more
+  2 okay
+  2 see
+  1 there
+  1 uhhuh
+  1 where
+  1 ya
+  1 yeah
+------------------------------
+   16  Total number of different item types used
+   19  Total number of items (tokens)
+0.842  Type/Token ratio
+    This TTR number was not calculated on the basis of %mor line forms.
+    If you want a TTR based on lemmas, run FREQ on the %mor line
+    with option: +sm;*,o%
+
+From file <ivy.cha>
+Speaker: *CHI:
+  1 ball
+  3 chicken
+  3 my
+  1 two
+------------------------------
+    4  Total number of different item types used
+    8  Total number of items (tokens)
+0.500  Type/Token ratio
+    This TTR number was not calculated on the basis of %mor line forms.
+    If you want a TTR based on lemmas, run FREQ on the %mor line
+    with option: +sm;*,o%
+
+From file <jane.cha>
+Speaker: *CHI:
+  1 Mommy
+  1 ball
+  1 no
+------------------------------
+    3  Total number of different item types used
+    3  Total number of items (tokens)
+1.000  Type/Token ratio
+    This TTR number was not calculated on the basis of %mor line forms.
+    If you want a TTR based on lemmas, run FREQ on the %mor line
+    with option: +sm;*,o%
+
+From file <jim.cha>
+Speaker: *CHI:
+  1 ah
+  1 ball
+  2 bed
+  4 big
+  1 chair
+  1 green
+  1 high
+  1 in
+  2 little
+  1 na_na_nun_nun_nun@o
+  1 night_night
+  1 no
+  1 ride
+  1 them
+  1 throw
+  2 too
+  1 white
+------------------------------
+   17  Total number of different item types used
+   23  Total number of items (tokens)
+0.739  Type/Token ratio
+    This TTR number was not calculated on the basis of %mor line forms.
+    If you want a TTR based on lemmas, run FREQ on the %mor line
+    with option: +sm;*,o%
+
+From file <kathy.cha>
+Speaker: *CHI:
+  1 ah
+  1 all
+  1 me
+  6 no
+  1 ow
+  1 uhhuh
+  1 uhoh
+  2 up
+  1 yeah
+------------------------------
+    9  Total number of different item types used
+   15  Total number of items (tokens)
+0.600  Type/Token ratio
+    This TTR number was not calculated on the basis of %mor line forms.
+    If you want a TTR based on lemmas, run FREQ on the %mor line
+    with option: +sm;*,o%
+
+From file <keith.cha>
+Speaker: *CHI:
+  2 I
+ 10 O
+  1 another
+  1 asleep
+  1 baby
+  2 bed
+  1 been
+  3 can't
+  2 car
+  5 circle
+  1 come
+  2 daddy
+  1 door
+  3 go
+  3 goes
+  1 he
+  2 here
+  3 in
+  3 it
+  1 mommy
+  2 no
+  1 oh
+  1 one
+  3 open
+  1 out
+  3 people
+  3 right
+  1 rrr@o
+  2 shut
+  2 square
+  6 that
+  1 the
+  3 there
+  1 this
+  1 uhhuh
+  4 what's
+  2 where
+  2 yeah
+------------------------------
+   38  Total number of different item types used
+   87  Total number of items (tokens)
+0.437  Type/Token ratio
+    This TTR number was not calculated on the basis of %mor line forms.
+    If you want a TTR based on lemmas, run FREQ on the %mor line
+    with option: +sm;*,o%
+
+From file <kent.cha>
+Speaker: *CHI:
+  1 boy
+  4 dog
+  1 duck
+  4 hey
+  1 oh
+  1 one
+  1 quack_quack_quack@o
+  4 three
+  1 whee@i
+  2 yeah
+------------------------------
+   10  Total number of different item types used
+   20  Total number of items (tokens)
+0.500  Type/Token ratio
+    This TTR number was not calculated on the basis of %mor line forms.
+    If you want a TTR based on lemmas, run FREQ on the %mor line
+    with option: +sm;*,o%
+
+From file <linda.cha>
+Speaker: *CHI:
+  1 I
+  8 ah
+  1 another
+  4 ball
+  2 chair
+  2 do
+  1 dog
+  1 don't
+  1 high
+  3 in
+  1 is
+  1 kiss
+  1 know
+  1 my
+  1 mysh_mah@wp
+  3 no
+  5 there
+  1 this
+  1 uhoh
+  2 uhuh
+  3 where
+  2 yeah
+  1 yes
+------------------------------
+   23  Total number of different item types used
+   47  Total number of items (tokens)
+0.489  Type/Token ratio
+    This TTR number was not calculated on the basis of %mor line forms.
+    If you want a TTR based on lemmas, run FREQ on the %mor line
+    with option: +sm;*,o%
+
+From file <mandy.cha>
+Speaker: *CHI:
+  6 all
+  1 all_done
+  4 ball
+  6 done
+  3 juice
+  1 more
+  1 oh
+  1 open
+  2 toys
+  3 uhoh
+  1 uhuh
+------------------------------
+   11  Total number of different item types used
+   29  Total number of items (tokens)
+0.379  Type/Token ratio
+    This TTR number was not calculated on the basis of %mor line forms.
+    If you want a TTR based on lemmas, run FREQ on the %mor line
+    with option: +sm;*,o%
+
+From file <nan.cha>
+Speaker: *CHI:
+  1 Mummie
+  6 O
+  2 ah
+  9 ball
+  1 boy
+  2 car
+  5 chair
+  1 doggie
+  1 here
+  1 hey
+  2 huh
+  1 me
+  1 oh
+  8 okay
+  1 where
+  1 yeah
+------------------------------
+   16  Total number of different item types used
+   43  Total number of items (tokens)
+0.372  Type/Token ratio
+    This TTR number was not calculated on the basis of %mor line forms.
+    If you want a TTR based on lemmas, run FREQ on the %mor line
+    with option: +sm;*,o%
+
+From file <olivia.cha>
+Speaker: *CHI:
+  1 I
+  4 Mama
+  3 Mommy
+  1 a
+  2 ah
+  1 ball
+  4 bed
+  2 box
+  3 boy
+  1 brush
+  4 chair
+  4 chicken
+  1 dog
+  4 doggie
+  1 down
+  1 fall
+  1 get
+  3 hi
+  1 in
+  1 more
+  1 my
+  1 no
+  2 oh
+  3 okay
+  1 one
+  1 other
+  2 people
+  3 play
+  1 rooster
+  1 snap
+  1 teach
+ 11 teacher
+  1 that
+  1 the
+  1 two
+  1 uhoh
+  1 where
+  1 why
+  7 yeah
+------------------------------
+   39  Total number of different item types used
+   84  Total number of items (tokens)
+0.464  Type/Token ratio
+    This TTR number was not calculated on the basis of %mor line forms.
+    If you want a TTR based on lemmas, run FREQ on the %mor line
+    with option: +sm;*,o%
+
+From file <paula.cha>
+Speaker: *CHI:
+  1 all
+  1 chick
+  1 done
+  3 no
+  9 that
+  2 uhuh
+  2 yeah
+------------------------------
+    7  Total number of different item types used
+   19  Total number of items (tokens)
+0.368  Type/Token ratio
+    This TTR number was not calculated on the basis of %mor line forms.
+    If you want a TTR based on lemmas, run FREQ on the %mor line
+    with option: +sm;*,o%
+
+From file <pete.cha>
+Speaker: *CHI:
+  1 puppy
+------------------------------
+    1  Total number of different item types used
+    1  Total number of items (tokens)
+1.000  Type/Token ratio
+    This TTR number was not calculated on the basis of %mor line forms.
+    If you want a TTR based on lemmas, run FREQ on the %mor line
+    with option: +sm;*,o%
+
+From file <ruth.cha>
+Speaker: *CHI:
+  1 a
+  3 baby
+  1 ball
+  1 bye
+  1 car
+  1 chair
+  2 chickie
+  1 duh_duh_duh@wp
+  1 huh
+  1 night_night
+  8 no
+  1 oh
+  9 people
+  1 see
+  1 that
+  3 uhoh
+  1 yes
+------------------------------
+   17  Total number of different item types used
+   37  Total number of items (tokens)
+0.459  Type/Token ratio
+    This TTR number was not calculated on the basis of %mor line forms.
+    If you want a TTR based on lemmas, run FREQ on the %mor line
+    with option: +sm;*,o%
+
+From file <steve.cha>
+Speaker: *CHI:
+  6 ball
+  7 bed
+ 10 chair
+  4 chicken
+  1 do_do_do_do_do@o
+  1 doggie
+  1 nahunh
+  1 oh
+  1 there
+  1 water
+  1 what
+  1 whoa
+------------------------------
+   12  Total number of different item types used
+   35  Total number of items (tokens)
+0.343  Type/Token ratio
+    This TTR number was not calculated on the basis of %mor line forms.
+    If you want a TTR based on lemmas, run FREQ on the %mor line
+    with option: +sm;*,o%
+
+From file <sue.cha>
+Speaker: *CHI:
+  1 I
+  7 ah
+  1 ahahah@u
+  2 ball
+  1 bee_beep@o
+  1 beep_beep@o
+  1 boy
+  2 car
+  1 do
+  1 dog
+  1 go
+  1 good
+  1 it
+  1 look
+  2 nah
+  1 no
+  6 okay
+  1 see
+  1 there
+  1 uh_uhhh@o
+  3 uhhuh
+  4 uhuh
+  2 yes
+------------------------------
+   23  Total number of different item types used
+   43  Total number of items (tokens)
+0.535  Type/Token ratio
+    This TTR number was not calculated on the basis of %mor line forms.
+    If you want a TTR based on lemmas, run FREQ on the %mor line
+    with option: +sm;*,o%
+
+From file <tom.cha>
+Speaker: *CHI:
+  1 a
+  2 ah
+  1 children
+  1 dee_dee@o
+  1 does
+  1 erget@u
+  4 go
+  2 going
+  1 good
+  1 here
+  1 in
+  1 la_laaaa@o
+  3 more
+  1 night_night
+  3 oh
+  1 ride
+  1 ruff@o
+  1 ruff_ruff_ruff@o
+  1 sit
+  1 that
+  1 them
+  1 tick_tck_tck_tck@o
+  1 tick_tick@o
+  1 tick_tick_tick_tick_tick_tick@o
+  3 toys
+  2 uhoh
+  1 woo_woo_woo_wa@o
+  1 woo_woo_woo_woo@o
+  1 woom_woo_woo@o
+  2 yay@i
+------------------------------
+   30  Total number of different item types used
+   43  Total number of items (tokens)
+0.698  Type/Token ratio
+    This TTR number was not calculated on the basis of %mor line forms.
+    If you want a TTR based on lemmas, run FREQ on the %mor line
+    with option: +sm;*,o%
+
+From file <vicki.cha>
+Speaker: *CHI:
+  1 ah
+  1 car
+------------------------------
+    2  Total number of different item types used
+    2  Total number of items (tokens)
+1.000  Type/Token ratio
+    This TTR number was not calculated on the basis of %mor line forms.
+    If you want a TTR based on lemmas, run FREQ on the %mor line
+    with option: +sm;*,o%
+
+From file <wanda.cha>
+Speaker: *CHI:
+  1 Mama
+  1 Mom
+  3 Mommy
+  7 a
+  1 ah
+ 17 ball
+  1 car
+  1 daddy
+  2 go
+  1 huh
+  1 me
+  1 mommy
+  1 no
+  1 okay
+  1 seen
+  4 sit
+ 10 the
+  1 there
+  3 this
+  1 to
+  2 want
+  3 where
+  5 where's
+------------------------------
+   23  Total number of different item types used
+   69  Total number of items (tokens)
+0.333  Type/Token ratio
+    This TTR number was not calculated on the basis of %mor line forms.
+    If you want a TTR based on lemmas, run FREQ on the %mor line
+    with option: +sm;*,o%
+
+From file <will.cha>
+Speaker: *CHI:
+  1 boy
+  1 get
+  1 it
+  1 kicking
+  1 look
+  2 nice
+  1 see
+  1 the
+  3 toy
+  3 toys
+  1 whee
+  1 woo_woo_woo_ow@o
+------------------------------
+   12  Total number of different item types used
+   17  Total number of items (tokens)
+0.706  Type/Token ratio
+    This TTR number was not calculated on the basis of %mor line forms.
+    If you want a TTR based on lemmas, run FREQ on the %mor line
+    with option: +sm;*,o%
+
+From file <zeke.cha>
+Speaker: *CHI:
+  4 ah
+  1 ball
+  1 oh
+  1 what
+------------------------------
+    4  Total number of different item types used
+    7  Total number of items (tokens)
+0.571  Type/Token ratio
+    This TTR number was not calculated on the basis of %mor line forms.
+    If you want a TTR based on lemmas, run FREQ on the %mor line
+    with option: +sm;*,o%
+
